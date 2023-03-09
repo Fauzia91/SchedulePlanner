@@ -4,10 +4,9 @@
 
 A day planner in real time, from the hours 9am-5pm. Planner allows you to write your agenda through out the day and save the information. 
 
-<!-- enter -->
+<img width="1406" alt="Screenshot 2023-03-08 at 10 07 00 PM" src="https://user-images.githubusercontent.com/123041731/223906254-28e75cb7-58fb-4ddc-8833-db40381a66b3.png">
 
-<!-- images -->
-
+<img width="1425" alt="Screenshot 2023-03-08 at 10 07 28 PM" src="https://user-images.githubusercontent.com/123041731/223906381-2f4638fc-5f32-4a6f-af8d-cadb9cd9433d.png">
 
 ### Table of Contents
 ***
@@ -20,7 +19,7 @@ A day planner in real time, from the hours 9am-5pm. Planner allows you to write 
 
 ### Deployed
 
-<!-- Go to enter -->
+https://fauzia91.github.io/SchedulePlanner/
 
 
 ### Contributing
@@ -53,7 +52,7 @@ SOFTWARE.
 
 ### Github
 
-<!-- enter -->
+https://github.com/Fauzia91/SchedulePlanner
 
 ### Contact
 
